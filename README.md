@@ -12,7 +12,7 @@ In Case you're interested, here's a summary of my activity on Github and a list 
 
 <p align="center">
          <a align= "center" href="https://github.com/Aytijha">
-                  <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Aytijha&theme=chartreuse-dark">
+                  <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Aytijha&theme=chartreuse-dark&border=FFFFFF&fire=DD2727">
          </a>
 
 <br>
