@@ -38,7 +38,3 @@ In Case you're interested, here's a summary of my activity on Github and a list 
 <a href="https://www.instagram.com/shouganai_ne/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="shouganai_ne" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:ac.aytijha@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="ac.aytijha@gmail" height="50" width="50" /></a>
 </p>
-
-<p align="center">
-  <img src="https://github.com/Aytijha/Aytijha/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
