@@ -3,10 +3,10 @@
          height="45"
          width="45" />, I'm Aytijha Chakraborty</h1>
 <h5 align="center">
-I’m a 3rd-year student pursuing a Bachelors’s in Computer Science Engineering with a Specialization in Machine Learning, from Graphic Era Hill University, Dehradun. I am a NLP enthusiast, specializing in Feature Engineering. 
+I’m a 3rd-year student pursuing a Bachelors in Technology in the field of Computer Science Engineering, with a Specialization in Machine Learning and AI, from Graphic Era Hill University, Dehradun. I am a NLP enthusiast, specializing in Feature Engineering. 
 </h5>
 
-<p>
+<p align="center">
 <a align= "center" href="https://github.com/Aytijha">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Aytijha&theme=chartreuse-dark">
 </a>
