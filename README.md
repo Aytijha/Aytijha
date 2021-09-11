@@ -1,14 +1,23 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+```py
+print ("Hello World, I am Aytijha Chakraborty")
+# Welcome to my Github profile!
+# Feel free to take a look at my repositories, my preferred Tech-stack, and anything else that catches your eyes!
+```
+
+<h1 align="center">Hello World <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />, I'm Aytijha Chakraborty</h1>
-<h5 align="center">
+         width="45" />, I am Aytijha Chakraborty
+</h1>
+         
+<p align="center">
 I’m a 3rd-year student pursuing a Bachelors in Technology in the field of Computer Science Engineering, with a Specialization in Machine Learning and AI, from Graphic Era Hill University, Dehradun. I am a NLP enthusiast, specializing in Feature Engineering. 
-</h5>
+</p>
+<hr>
 
-<h5 align="center">
+<p align="center">
 In Case you're interested, here's a summary of my activity on Github and a list of my most used languages. This shall act as a pseudo-introduction to my work-habits and my preferred techstack. To know more, or to discuss an idea/concern, reach out to me on my social handles (linked below) or drop a mail (hyperlink provided below).
-</h5>
+</p>
 
 <p align="center">
          <a align= "center" href="https://github.com/Aytijha">
