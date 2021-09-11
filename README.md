@@ -25,7 +25,7 @@ In Case you're interested, here's a summary of my activity on Github and a list 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/aytijha-chakraborty/" target="blank"><img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" alt="aytijha chakraborty" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/shouganai_ne/" target="blank"><img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-instagram-social-media-justicon-flat-justicon.png" alt="shouganai_ne" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/aytijha-chakraborty/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="aytijha chakraborty" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/shouganai_ne/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="shouganai_ne" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:ac.aytijha@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="ac.aytijha@gmail" height="50" width="50" /></a>
 </p>
