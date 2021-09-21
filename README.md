@@ -18,13 +18,10 @@ I’m a 3rd-year student pursuing a Bachelors in Technology in the field of Comp
 <p align="center">
 In Case you're interested, here's a summary of my activity on Github and a list of my most used languages. This shall act as a pseudo-introduction to my work-habits and my preferred techstack. To know more, or to discuss an idea/concern, reach out to me on my social handles (linked below) or drop a mail at <a href = "mailto:ac.aytijha@gmail.com">ac.aytijha@gmail.com</a>.
 </p>
-
-<p align="center">
-         <a align= "center" href="https://github.com/Aytijha">
-                  <img alt= "stats card" height="200px" width="400" src=http://github-readme-streak-stats.herokuapp.com?user=Aytijha&theme=chartreuse-dark&border=FFFFFF">
-         </a>
-
 <br>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aytijha&theme=chartreuse-dark&border=FFFFFF)](https://git.io/streak-stats)
+<p align="center">
          <a align= "center" href="https://github.com/Aytijha">
                   <img alt= "most used languages" height="200px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aytijha&layout=compact&theme=chartreuse-dark">
          </a>
