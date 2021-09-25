@@ -21,6 +21,7 @@ In Case you're interested, here's a summary of my activity on Github and a list 
 <br>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aytijha&theme=chartreuse-dark&border=FFFFFF)](https://git.io/streak-stats)
+
 <p align="center">
          <a align= "center" href="https://github.com/Aytijha">
                   <img alt= "most used languages" height="200px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aytijha&layout=compact&theme=chartreuse-dark">
