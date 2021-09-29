@@ -20,7 +20,7 @@ In Case you're interested, here's a summary of my activity on Github and a list 
 </p>
 <br>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aytijha&theme=chartreuse-dark&border=FFFFFF)](https://git.io/streak-stats)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aytijha&theme=chartreuse-dark&border=FFFFFF)](https://git.io/streak-stats)
 
 <p align="center">
          <a align= "center" href="https://github.com/Aytijha">
