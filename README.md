@@ -1,7 +1,7 @@
 ```py
 print ("Hello World, I am Aytijha Chakraborty")
-Welcome to my Github profile!
-Feel free to take a look at my repositories, my preferred Tech-stack, and anything else that catches your eyes!
+# Welcome to my Github profile!
+# Feel free to take a look at my repositories, my preferred Tech-stack, and anything else that catches your eyes!
 ```
 
 <h1 align="center">Hello World, I am Aytijha Chakraborty</h1>
