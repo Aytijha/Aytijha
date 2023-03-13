@@ -11,7 +11,7 @@ print ("Hello World, I am Aytijha Chakraborty")
          alt="Waving hand animated gif"
          height="45"
          width="45" />
-I’m a 3rd-year student pursuing a Bachelors in Technology in the field of Computer Science Engineering, with a Specialization in Machine Learning and AI, from Graphic Era Hill University, Dehradun. I am a NLP enthusiast, specializing in Feature Engineering. 
+I’m a final-year student pursuing a Bachelors in Technology in the field of Computer Science Engineering, with a Specialization in Machine Learning and AI, from Graphic Era Hill University, Dehradun. I am a NLP enthusiast, specializing in Feature Engineering. 
 </p>
 <hr>
 
